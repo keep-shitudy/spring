@@ -44,3 +44,9 @@ git commit -m "[기본] 섹션 1. SQL 중심적인 개발의 문제점 (#0)"
 |:-:|:-:|:-:|
 |0주차<br>(~10.18)|[기본] 섹션 0.1 ~ 섹션 1.1|[기본] 섹션 0.1 ~ 섹션 6.5 |
 |1주차<br>(10.18~10.25)| | |
+
+## 👩🏻‍💻🧑🏻‍💻 Members
+|@Jisuniui|@Sehbeom|
+|:-:|:-:|
+|![KakaoTalk_Photo_2022-10-19-02-25-18](https://user-images.githubusercontent.com/82515938/196501780-36bdc6e9-ddcb-4bab-addb-cc22e778aa2c.png)|![KakaoTalk_Photo_2022-10-19-02-22-53](https://user-images.githubusercontent.com/82515938/196501332-7b2e0beb-dc1f-4199-b16e-1c01abb0fab7.png)|
+|[이지선](https://github.com/Jiisuniui)|[장세범](https://github.com/Sehbeom)|
